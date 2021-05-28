@@ -10,4 +10,4 @@ For E.G you would type .searchforvaccines 500010 45 2 and would get an output fr
 Second Command: .findvaccine (PINCODE) (DATE)
 For E.G you would type .findvaccine 500010 23-3-21
 
-For any issues, DM me on discord at Aweclops#0362
+
